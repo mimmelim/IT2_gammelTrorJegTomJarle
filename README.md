@@ -1,4 +1,8 @@
-# Informasjonsteknologi 2 - En åpen og fri fagressurs
+
+Alle oppgaver etc i dette repositoryet er laga med tanke på javascript. Jeg kan bruke oppgaver etc i konsProg og IT1-ny læreplan. 
+
+
+## Informasjonsteknologi 2 - En åpen og fri fagressurs
 
 Dette prosjektet har som mål å tilby åpne og frie oppgaver for å jobbe med alle kompetansemålene i IT2 ([INF1-01 REA3015](http://www.udir.no/kl06/INF1-01/Kompetansemaal?arst=1858830315&kmsn=130796663)).
 
